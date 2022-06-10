@@ -186,6 +186,10 @@ nav .user .login {
     padding: 1px 2rem;
   }
 
+  nav {
+    padding: 0;
+  }
+
   nav .user {
     display: none;
   }
